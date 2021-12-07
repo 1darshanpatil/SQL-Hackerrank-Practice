@@ -1,0 +1,11 @@
+/*https://www.hackerrank.com/challenges/weather-observation-station-1/problem*/
+
+/*
+Enter your query here.
+*/
+select CITY, STATE from STATION; 
+
+/*
+where LAT_N is the northern latitude and LONG_W is the western longitude.
+By the above statement they already mean that they are looking for the data where LAT_N is northern and LONG_W is western now Imagine what if you don't put any condition for LAT_N and LONG_W: here LAT_N is itself northern and LONG_W is already western.
+*/
