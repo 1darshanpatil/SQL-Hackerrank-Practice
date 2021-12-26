@@ -1,0 +1,14 @@
+/*Find the image link for the question #1 : https://preview.redd.it/7850kja33eq61.png?width=862&format=png&auto=webp&s=d7cedd76d40805d814816e2f4cd5da863e6b932e*/
+SELECT E.roll_number, S.name 
+FROM student_information AS S
+INNER JOIN examination_marks AS E 
+ON E.roll_number = S.roll_number
+WHERE E.subject_one + E.subject_two + E.subject_three < 100;
+
+
+/*Question #2*/
+
+SELECT C.customer_id, C.name, CONCAT('+', CONCAT(Cd.country_code, C.phone_number)) 
+FROM  customers as C
+INNER JOIN country_codes as Cd
+ON C.country = Cd.country
