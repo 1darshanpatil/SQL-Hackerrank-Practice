@@ -1,0 +1,4 @@
+/*https://www.hackerrank.com/challenges/average-population/submissions/code/248734037*/
+
+SELECT ROUND(AVG(POPULATION)) FROM CITY;
+
