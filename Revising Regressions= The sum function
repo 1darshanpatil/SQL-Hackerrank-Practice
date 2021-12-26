@@ -1,0 +1,2 @@
+/* https://www.hackerrank.com/challenges/revising-aggregations-sum/submissions*/
+SELECT SUM(POPULATION) FROM CITY WHERE DISTRICT = 'California';
