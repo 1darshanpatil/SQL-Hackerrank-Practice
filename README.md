@@ -5,8 +5,9 @@
 ## Content
 
 
-
- [Average Population](https://github.com/1darshanpatil/MySQL/blob/main/Average%20Population) 
+|Index | Name |
+|:----|-----:|
+ |1| [Average Population](https://github.com/1darshanpatil/MySQL/blob/main/Average%20Population) |
 
 
  [Binary Tree Nodes](https://github.com/1darshanpatil/MySQL/blob/main/Binary%20Tree%20Nodes) 
@@ -95,8 +96,4 @@
 [Weather Observation Station 9](https://github.com/1darshanpatil/MySQL/blob/main/Weather%20Observation%20Station%209)
 
 
-| Header oeader Two |
-|:---------:|
-|alphAlpha_1|
-|betabeta_2|
-|gamm gamma_1|
+
