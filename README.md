@@ -93,3 +93,10 @@
 
 
 [Weather Observation Station 9](https://github.com/1darshanpatil/MySQL/blob/main/Weather%20Observation%20Station%209)
+
+
+| Header one | Header Two |
+|:------|------:|
+|alpha | Alpha_1|
+|beta    |   beta_2|
+|gamma   |   gamma_1|
