@@ -6,6 +6,7 @@
 
 
 |Index | Name |
+|---|---|
 |1| [Average Population](https://github.com/1darshanpatil/MySQL/blob/main/Average%20Population) |
 |2| [Binary Tree Nodes](https://github.com/1darshanpatil/MySQL/blob/main/Binary%20Tree%20Nodes) |
 |3| [Employee Name](https://github.com/1darshanpatil/MySQL/blob/main/Employee%20Name) |
