@@ -6,17 +6,15 @@
 
 
 
-| [Average Population](https://github.com/1darshanpatil/MySQL/blob/main/Average%20Population) | 
+ [Average Population](https://github.com/1darshanpatil/MySQL/blob/main/Average%20Population) 
 
 
-_______
-
-| [Binary Tree Nodes](https://github.com/1darshanpatil/MySQL/blob/main/Binary%20Tree%20Nodes) |
+ [Binary Tree Nodes](https://github.com/1darshanpatil/MySQL/blob/main/Binary%20Tree%20Nodes) 
 
 
-_______
 
-| [Employee Name](https://github.com/1darshanpatil/MySQL/blob/main/Employee%20Name) |
+
+ [Employee Name](https://github.com/1darshanpatil/MySQL/blob/main/Employee%20Name) 
 
 
 [Employee Salary](https://github.com/1darshanpatil/MySQL/blob/main/Employee%20Salary)
