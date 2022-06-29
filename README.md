@@ -1,6 +1,14 @@
 [![alt text][image]][hyperlink]
+[![alt text][image1]][hyperlink1]
+
+
+[hyperlink1]: https://www.hackerrank.com/patildarshan4171
+[image1]: https://user-images.githubusercontent.com/72539638/176409861-a181c41a-776d-4fd9-993e-efba815fb469.png
+
+
 [hyperlink]: https://www.hackerrank.com/certificates/9b3ec9329cf9
 [image]: https://i.stack.imgur.com/IO6Ql.jpg
+
 
 
 # Hackerrank SQL solution: DumpCodes
