@@ -1,7 +1,11 @@
-![image](https://user-images.githubusercontent.com/72539638/176402897-e66e67e5-1bc6-41e4-b43b-abf3b298484d.png)
+[![alt text][image][hyperlink]
+[image]: https://i.stack.imgur.com/lSOqn.png
+[hyperlink]: https://www.hackerrank.com/patildarshan4171
+
+
+
 
 [![alt text][image]][hyperlink]
-
 [hyperlink]: https://www.hackerrank.com/certificates/9b3ec9329cf9
 [image]: https://i.stack.imgur.com/IO6Ql.jpg
 
