@@ -1,5 +1,20 @@
 ![image](https://user-images.githubusercontent.com/72539638/176402897-e66e67e5-1bc6-41e4-b43b-abf3b298484d.png)
-https://www.hackerrank.com/certificates/9b3ec9329cf9
+
+
+
+<a href="https://meta.stackoverflow.com/users/44330/jason-s">![alt text][1]</a>
+
+These work properly:
+
+    <a href="https://meta.stackoverflow.com/users/44330/jason-s">![alt text][1]</a>
+    [1]: https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+
+    <a href="https://meta.stackoverflow.com/users/44330/jason-s">
+       <img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07">
+    </a>
+
+    [<img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07">][2]
+    [2]: https://meta.stackoverflow.com/users/44330/jason-s
 
 
 # Hackerrank SQL solution: DumpCodes
